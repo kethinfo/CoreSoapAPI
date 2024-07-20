@@ -1,0 +1,6 @@
+@CoreSoapAPI_HostAddress = http://localhost:5219
+
+GET {{CoreSoapAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

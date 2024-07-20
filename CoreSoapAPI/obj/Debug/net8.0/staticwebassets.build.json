@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PO5fdsUSeKrdDOVyuWdNW14lxKIY5fC19GIBW1wyMRI=",
+  "Source": "CoreSoapAPI",
+  "BasePath": "_content/CoreSoapAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
